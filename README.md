@@ -1,4 +1,4 @@
-# _PubEvalAI: Enhancing Decision-Making in AI Product Selection_
+# PubEvalAI: Enhancing Decision-Making in AI Product Selection
 PubEvalAI is a comprehensive evaluation framework designed to enhance decision-making in the public procurement of conversational AI solutions. By focusing on critical aspects of performance, cost, and security, this framework aims to provide government agencies with robust tools for assessing and selecting AI products that meet their needs effectively.
   
   
@@ -20,7 +20,7 @@ Cost per Query: Measures the cost associated with each interaction to ensure cos
 Concurrency: Assesses the system's ability to handle multiple simultaneous interactions without performance degradation.
 Latency: Evaluates response times to ensure timely and efficient interactions. 
 
-Novel "MU" Metric
+_Novel "MU" Metric_
 MU metric to measure how often the conversational AI correctly avoids answering irrelevant queries. Irrelevant queries are off-topic questions that are not related to the intended focus of the conversational AI solution.
   
   
