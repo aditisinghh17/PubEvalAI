@@ -21,7 +21,7 @@ Concurrency: Assesses the system's ability to handle multiple simultaneous inter
 Latency: Evaluates response times to ensure timely and efficient interactions. 
 
 _Novel "MU" Metric_
-MU metric to measure how often the conversational AI correctly avoids answering irrelevant queries. Irrelevant queries are off-topic questions that are not related to the intended focus of the conversational AI solution.
+helps in measuring how often the conversational AI correctly avoids answering irrelevant queries. Irrelevant queries are off-topic questions that are not related to the intended focus of the conversational AI solution.
   
   
 > _Naming the Metric: In Robert M. Pirsig's 1974 novel Zen and the Art of Motorcycle Maintenance, "mu" is translated as “no thing”, reflecting a concept of “un-asking the question+_
