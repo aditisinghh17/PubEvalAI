@@ -1,4 +1,5 @@
-# Developing a Evaluation Framework for Conversational AI in Public Procurement: Enhancing Decision-Making in AI Product Selection
+# PubEvalAI: Enhancing Decision-Making in AI Product Selection
+PubEvalAI is a comprehensive evaluation framework designed to enhance decision-making in the public procurement of conversational AI solutions. By focusing on critical aspects of performance, cost, and security, this framework aims to provide government agencies with robust tools for assessing and selecting AI products that meet their needs effectively.
   
   
  ## Understanding Public Procurement
@@ -10,9 +11,18 @@
  3. Perfromance meaurement:  Measuring the performance and of conversational AI solutions can be difficult.
  4. Data Privacy and Security Concerns: Ensuring compliance with data protection regulations and securing sensitive information is critical.
 
-# To deal with this problem we introduce PubEvalAI 
-Evaluation Metrics: The framework focuses on key metrics like cost per query, concurrency, and latency to assess Conversational AI solutions, ensuring they meet the performance requirements for public procurement.
+PubEvalAI addresses these challenges by providing a structured evaluation framework that focuses on key metrics to assess conversational AI solutions effectively.
 
-“MU” Metric:  A novel "MU" metric is introduced to evaluate the effectiveness of AI systems in filtering out spam and irrelevant queries, particularly those that attempt to bypass topical guardrails, prompt leaking, and jailbreaking.
+PubEvalAI addresses these challenges by providing a structured evaluation framework that focuses on key metrics to assess conversational AI solutions effectively.
 
-Future Expansion: The framework is designed to be adaptable, with plans to introduce additional metrics as the research progresses, allowing for a comprehensive evaluation of Conversational AI products.
+Evaluation Metrics
+Cost per Query: Measures the cost associated with each interaction to ensure cost-effectiveness.
+Concurrency: Assesses the system's ability to handle multiple simultaneous interactions without performance degradation.
+Latency: Evaluates response times to ensure timely and efficient interactions. 
+
+Novel "MU" Metric
+MU metric to measure how often the conversational AI correctly avoids answering irrelevant queries. Irrelevant queries are off-topic questions that are not related to the intended focus of the conversational AI solution.
+  
+  
+_Naming the Metric: In Robert M. Pirsig's 1974 novel Zen and the Art of Motorcycle Maintenance, "mu" is translated as “no thing”, reflecting a concept of “un-asking the question+_
+
