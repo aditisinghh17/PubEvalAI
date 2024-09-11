@@ -1,4 +1,4 @@
-# PubEvalAI: Enhancing Decision-Making in AI Product Selection
+# _PubEvalAI: Enhancing Decision-Making in AI Product Selection_
 PubEvalAI is a comprehensive evaluation framework designed to enhance decision-making in the public procurement of conversational AI solutions. By focusing on critical aspects of performance, cost, and security, this framework aims to provide government agencies with robust tools for assessing and selecting AI products that meet their needs effectively.
   
   
@@ -11,9 +11,9 @@ PubEvalAI is a comprehensive evaluation framework designed to enhance decision-m
  3. Perfromance meaurement:  Measuring the performance and of conversational AI solutions can be difficult.
  4. Data Privacy and Security Concerns: Ensuring compliance with data protection regulations and securing sensitive information is critical.
 
-PubEvalAI addresses these challenges by providing a structured evaluation framework that focuses on key metrics to assess conversational AI solutions effectively.
 
-PubEvalAI addresses these challenges by providing a structured evaluation framework that focuses on key metrics to assess conversational AI solutions effectively.
+
+## PubEvalAI addresses these challenges by providing a structured evaluation framework that focuses on key metrics to assess conversational AI solutions effectively.
 
 Evaluation Metrics
 Cost per Query: Measures the cost associated with each interaction to ensure cost-effectiveness.
