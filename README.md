@@ -24,5 +24,5 @@ Novel "MU" Metric
 MU metric to measure how often the conversational AI correctly avoids answering irrelevant queries. Irrelevant queries are off-topic questions that are not related to the intended focus of the conversational AI solution.
   
   
-_Naming the Metric: In Robert M. Pirsig's 1974 novel Zen and the Art of Motorcycle Maintenance, "mu" is translated as “no thing”, reflecting a concept of “un-asking the question+_
+> _Naming the Metric: In Robert M. Pirsig's 1974 novel Zen and the Art of Motorcycle Maintenance, "mu" is translated as “no thing”, reflecting a concept of “un-asking the question+_
 
